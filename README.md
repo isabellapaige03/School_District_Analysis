@@ -24,6 +24,7 @@ Here’s how replacing the ninth graders’ math and reading schools affected th
  •	The scores by school type remained the same and were not affected by the replaced grades.
 
 Summary
+
 In conclusion replacing the ninth graders’ math and reading scores with NaNs created few changes to the outcome. Unfortunately, the academic dishonesty from the ninth graders at Thomas High School, did cause the districts average scores and overall passing percentage to heavily decrease. Thomas High school remained the number two school. 
 
 
